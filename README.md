@@ -29,3 +29,9 @@ While still in its early stages of development, the quadexpo function holds sign
 ![quadexpo](https://github.com/user-attachments/assets/547ce9f1-9ddf-43e6-8223-01b4fbb1682a)
 
 The [quadexpo](https://chatgpt.com/g/g-67c182bde31c81919b831b360428dea2-quadexpo) custom GPT specializes in the "quadexpo function," a mathematical framework that merges quadratic functions, exponential growth/decay, and definite integration into a unified model for analyzing complex systems. The quadexpo function is particularly useful for modeling phenomena where both polynomial and exponential behaviors coexist, such as population dynamics, radioactive decay, financial market trends, and engineering stress analysis. By fine-tuning parameters, it allows for precise representations of real-world data without requiring multiple equations or complex approximations. With applications in biology, physics, economics, and beyond, this GPT helps users understand, implement, and explore the potential of quadexpo-based solutions through mathematical analysis, coding, and visualization.
+
+#
+
+[Programming](https://github.com/sourceduty/Programming)
+<br>
+[PyPi Studio](https://chatgpt.com/g/g-682fb476dd048191800bdbc557bd7e9a-pypi-studio)
